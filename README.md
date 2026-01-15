@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bruno Gabriel 👋
 
-<!--
-**bruno-gabriel-dev/bruno-gabriel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on building a strong foundation in programming and creating modern, interactive web experiences.
 
-Here are some ideas to get you started:
+I’m a detail-oriented person who values listening, learning and continuous improvement. I’ve always been interested in understanding how things work and solving problems, and I genuinely enjoy the process of finding solutions and seeing things come together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m developing my skills in HTML, CSS and JavaScript, with a focus on clean structure, good organization and smooth interactions. My long-term goal is to become a Full Stack Developer and explore areas such as Artificial Intelligence and Game Development.
+
+## Current focus
+- Web development fundamentals (HTML, CSS, JavaScript)  
+- Creating modern layouts and animations  
+- Improving logic, structure and code quality  
+
+## What you’ll find here
+- Study projects  
+- Practice exercises  
+- Experiments and evolving ideas  
+
+I believe in learning step by step, paying attention to details and building things with purpose.
+
+---
+
+
