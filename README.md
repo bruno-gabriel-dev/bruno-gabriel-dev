@@ -1,7 +1,7 @@
 # Bruno Gabriel 👋
 <div align="center">
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoGabriel&show_icons=true&theme=tokyonight)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruno-gabriel-dev&show_icons=true&theme=tokyonight)
 
 </div>
 
