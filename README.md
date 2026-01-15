@@ -1,11 +1,4 @@
 # Bruno Gabriel 👋
-<div align="center">
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruno-gabriel-dev&show_icons=true&theme=tokyonight)
-
-</div>
-
-
 
 Software Engineering student focused on building a strong foundation in programming and creating modern, interactive web experiences.
 
